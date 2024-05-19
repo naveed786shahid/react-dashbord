@@ -1,0 +1,52 @@
+[{
+  "id": 1,
+  "name": "Naveed",
+  "company": "IGA",
+  "username": "Admin",
+  "email": "naveec786shain@gmail.com",
+  "address": "{{faker 'address.streetAddress'}}",
+  "zip": "{{faker 'address.zipCode'}}",
+  "state": "{{faker 'address.state'}}",
+  "country": "{{faker 'address.country'}}",
+  "phone": "{{faker 'phone.phoneNumber'}}",
+  "photo": "https://json-server.dev/ai-profiles/{{faker 'mersenne.rand' '1' '100'}}.png"
+},
+{
+  "id": 2,
+  "name": "Shahid",
+  "company": "NEtSol",
+  "username": "Test@test.om",
+  "email": "internet.email",
+  "address": "{{faker 'address.streetAddress'}}",
+  "zip": "{{faker 'address.zipCode'}}",
+  "state": "{{faker 'address.state'}}",
+  "country": "{{faker 'address.country'}}",
+  "phone": "{{faker 'phone.phoneNumber'}}",
+  "photo": "https://json-server.dev/ai-profiles/{{faker 'mersenne.rand' '1' '100'}}.png"
+},
+{
+  "id": 3,
+  "name": "ABC",
+  "company": "ABC",
+  "username": "CDA",
+  "email": "CDA@f.c0om",
+  "address": "{{faker 'address.streetAddress'}}",
+  "zip": "{{faker 'address.zipCode'}}",
+  "state": "{{faker 'address.state'}}",
+  "country": "{{faker 'address.country'}}",
+  "phone": "{{faker 'phone.phoneNumber'}}",
+  "photo": "https://json-server.dev/ai-profiles/{{faker 'mersenne.rand' '1' '100'}}.png"
+},
+{
+  "id": 4,
+  "name": "FGSAS",
+  "company": "IBAC",
+  "username": "tweasdij",
+  "email": "bubd2sdj@ff.com",
+  "address": "{{faker 'address.streetAddress'}}",
+  "zip": "{{faker 'address.zipCode'}}",
+  "state": "{{faker 'address.state'}}",
+  "country": "{{faker 'address.country'}}",
+  "phone": "{{faker 'phone.phoneNumber'}}",
+  "photo": "https://json-server.dev/ai-profiles/{{faker 'mersenne.rand' '1' '100'}}.png"
+}]
